@@ -28,40 +28,27 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
+->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>  About Me
+<div align="center">
+🚀  Passionate about building AI-powered full stack applications that solve real-world problems through clean design, scalable architecture, and intelligent systems.
+🤖  I enjoy developing modern web products integrated with AI / LLMs — from smart automation tools to data-driven applications.
+🌱  Currently exploring Generative AI, System Design, and Advanced Backend Engineering.
+💼  Open to exciting roles as an AI Engineer | Full Stack Developer | SDE
+📍  Based in India  |  📬  srushtimhaske09@gmail.com
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+"Ship fast. Learn deep. Build things that matter."
 
-```typescript
-const srushti: Developer = {
-  name        : "Srushti Mhaske",
-  location    : "India 🇮🇳",
-  role        : ["AI Engineer", "Full Stack Developer", "SDE"],
-  focus       : "Building scalable products that blend Code, Data & Creativity",
-
-  currentlyLearning : ["Generative AI", "System Design", "Advanced Backend Engineering"],
-  currentlyBuilding : "AI-powered full stack apps with LLM integration",
-  openTo            : "Exciting SDE | Full Stack | AI Engineer Opportunities 🚀",
-
-  philosophy  : "Ship fast. Learn deep. Build things that matter.",
-};
-```
-
+</div>
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=codewithsrush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&border_radius=12" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-     <img src="https://streak-stats.demolab.com?user=codewithsrush&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=f59e0b&currStreakLabel=6EE7B7&border_radius=12" width="100%"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codewithsrush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&border_radius=12&card_width=480" width="49%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsrush&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=f59e0b&currStreakLabel=6EE7B7&border_radius=12&card_width=480&dates=6EE7B7&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="49%"/>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════════
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                           -->
