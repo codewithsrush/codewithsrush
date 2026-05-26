@@ -154,8 +154,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsrush&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&border_radius=12&langs_count=8" width="45%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithsrush&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsrush&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsrush&theme=github-compact&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=f59e0b&hide_border=true&radius=12" width="95%"/>
