@@ -66,7 +66,7 @@ const srushti: Developer = {
       <img src="https://github-readme-stats.vercel.app/api?username=codewithsrush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&border_radius=12" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsrush&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=f59e0b&currStreakLabel=6EE7B7&border_radius=12" width="100%"/>
+     <img src="https://streak-stats.demolab.com?user=codewithsrush&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=f59e0b&currStreakLabel=6EE7B7&border_radius=12" width="100%"/>
     </td>
   </tr>
 </table>
