@@ -202,10 +202,10 @@
 <!--                    EXPERIENCE SECTION                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 💼 &nbsp;Experience & Background
+## 💼 &nbsp; Background
 
 ```
-▸ Currently pursuing a degree in Computer Science / IT
+▸ Currently pursuing a degree in IT
 ▸ Hands-on experience building full-stack applications with AI integration
 ▸ Applied LLM APIs (Groq, Generative AI) in production-grade projects
 ▸ Strong grasp of REST API design, JWT auth, and async backend architecture
