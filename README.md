@@ -257,27 +257,6 @@ const srushti: Developer = {
 <!--                   ACHIEVEMENTS SECTION                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;Achievements & Certifications
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithsrush&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🎖️ Achievement | Details |
-|---|---|
-| 🤖 **AI Project in Production** | Deployed AI Resume Matcher with live LLM integration |
-| 🔗 **LLM Integration** | Successfully integrated Groq LLaMA 3.3 70B in a full-stack app |
-| ⚡ **Performance Engineering** | Achieved sub-5s AI response via optimized async pipelines |
-| 📦 **Full Stack Deployment** | End-to-end deployment on Vercel + Render |
-| 🧠 **DSA Practice** | Actively solving problems on LeetCode |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -285,20 +264,8 @@ const srushti: Developer = {
 <!--                     FUN / CREATIVE                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ⚡ &nbsp;A Bit More About Me
 
-<div align="center">
 
-```
-🎵  Music + headphones = maximum flow state
-☕  Chai-powered debugging sessions
-🌙  Night owl who ships features after midnight
-📚  Currently reading: System Design Interview – Alex Xu
-🧩  Obsessed with clean code, clever abstractions & elegant APIs
-💬  Ask me about: LLM APIs, React, Node.js, or system design
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -328,30 +295,3 @@ const srushti: Developer = {
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION WORKFLOW — add this to .github/workflows/  -->
-<!--                                                             -->
-<!-- File: .github/workflows/snake.yml                          -->
-<!--                                                             -->
-<!-- name: Generate Snake Animation                             -->
-<!-- on:                                                         -->
-<!--   schedule:                                                 -->
-<!--     - cron: "0 */12 * * *"                                 -->
-<!--   workflow_dispatch:                                        -->
-<!-- jobs:                                                       -->
-<!--   generate:                                                 -->
-<!--     runs-on: ubuntu-latest                                  -->
-<!--     steps:                                                  -->
-<!--       - uses: Platane/snk@v3                               -->
-<!--         with:                                               -->
-<!--           github_user_name: codewithsrush                   -->
-<!--           outputs: |                                        -->
-<!--             dist/github-snake.svg                           -->
-<!--             dist/github-snake-dark.svg?palette=github-dark  -->
-<!--       - uses: crazy-max/ghaction-github-pages@v3           -->
-<!--         with:                                               -->
-<!--           target_branch: output                             -->
-<!--           build_dir: dist                                   -->
-<!--         env:                                                -->
-<!--           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        -->
-<!-- ════════════════════════════════════════════════════════════ -->
