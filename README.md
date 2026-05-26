@@ -28,11 +28,11 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
--->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>  About Me
 
-<p><b>Passionate about building AI-powered full stack applications that solve real-world problems through clean design, scalable architecture, and intelligent systems.I enjoy developing modern web products integrated with AI / LLMs — from smart automation tools to data-driven applications.Currently exploring Generative AI, System Design, and Advanced Backend Engineering.Open to exciting roles as AI Engineer · Full Stack Developer · SDE
+<p><b>Passionate about building AI-powered full stack applications that solve real-world problems through clean design, scalable architecture, and intelligent systems.I enjoy developing modern web products integrated with AI / LLMs — from smart automation tools to data-driven applications.Currently exploring Generative AI, System Design, and Advanced Backend Engineering.<br>Open to exciting roles as AI Engineer · Full Stack Developer · SDE
   
 </b></p>
   
